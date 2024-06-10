@@ -31,14 +31,14 @@ Your symbiotic link to fungi and your ability to tap into the cycle of life and 
 
 At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table. Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-| Circle of Spores Spells |
-|:------------------------|
-| Druid Level             |
-| 2nd                     |
-| 3rd                     |
-| 5th                     |
-| 7th                     |
-| 9th                     |
+| Circle of Spores Spells |                                                                                                                                        |
+|:------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Druid Level             | Spells                                                                                                                                 |
+| 2nd                     | [Chill Touch](http://dnd5e.wikidot.com/spell:chill-touch)                                                                              |
+| 3rd                     | [Blindness/Deafness](http://dnd5e.wikidot.com/spell:blindness-deafness), [Gentle Repose](http://dnd5e.wikidot.com/spell:gentle-repose) |
+| 5th                     | [Animate Dead](http://dnd5e.wikidot.com/spell:animate-dead), [Gaseous Form](http://dnd5e.wikidot.com/spell:gaseous-form)               |
+| 7th                     | [Blight](http://dnd5e.wikidot.com/spell:blight), [Confusion](http://dnd5e.wikidot.com/spell:confusion)                                 |
+| 9th                     | [Cloudkill](http://dnd5e.wikidot.com/spell:cloudkill), [Contagion](http://dnd5e.wikidot.com/spell:contagion)                           |
 
 ### **Halo of Spores**
 
@@ -50,9 +50,8 @@ Also at 2nd level, you gain the ability to channel magic into your spores. As an
 
 -   When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.
 
-```{=html}
 <!-- -->
-```
+
 -   Your melee weapon attacks deal an extra 1d6 necrotic damage to any target they hit.
 
 These benefits last for 10 minutes, until you lose all these temporary hit points. or until you use your Wild Shape again.
