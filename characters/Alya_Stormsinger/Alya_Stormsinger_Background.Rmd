@@ -1,0 +1,60 @@
+---
+title: "Alya Stormsinger's Background"
+output:
+  pdf_document: 
+    toc: false
+  word_document:
+    toc: true
+    reference_docx: ../templates/wordstyletemplate.docx
+    keep_md: true
+  html_document:
+    css: ../css/tufte.css
+    toc: true
+    toc_float: true
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I was born in a small fishing village on a tiny island. Even before I could walk, I was playing in the ocean. My immediate family was small, just my younger sister, Roane, and my mother. My father had been taken by the sea when I was very small and I never really knew him. The whole island felt like family since there were so few of us and the children were raised in a communal creche. My mother was often away on fishing trips.
+
+As a child, I was rambunctious and regularly wandered away from the group. I enjoyed discovering fascinating places, then leading the other children there. They saw me as a kind of captain, and I relished it. 
+
+I’d always felt a deep connection with the sea, spending hours swimming and searching for seashells, but it was only when I hit puberty that my sorcery manifested. I had been rejected by a girl I fancied, Kaeri, one day and was moping around the beach after dark. I was barefoot, and it felt nice to have the cool, salty water lap against my feet. As I sighed and bemoaned my own misfortune, the water continued to climb past my feet and up my legs, like some living thing. It rose higher and higher until it surrounded my whole body like a seedpod. I was terrified, of course, and tried to fight my way out. As I did, I swallowed water and froze, expecting to drown. Instead, I realized I could breathe perfectly fine. 
+
+The ocean pulled me gently outwards and I began walk along the ocean floor. I didn’t go too deep, as I was still unsure the limits of my strange new powers, but I spent that night with shallow water fish and jellies beneath a full moon. I even saw a manta ray swim past at my deepest descent. As I made to ascend after some hours, the ocean tugged at my ankle, and I glanced down to find a single pearl sitting atop the sandy floor. It glowed slightly in the dim moonlight through the water above. I picked it up and felt a rush of energy. The pearl wasn’t big, perhaps the size of my thumbnail, but I knew it was special. I swam back to the surface with it clutched tight in my fist, and when I arrived back home, I fixed it into a pendant to keep on me always.
+
+After that night, I took full advantage of my underwater breathing to explore the sea near my island in greater depth. I also realized I had some control over the water itself and quickly learned to shape the liquid around me as I pleased. I kept my sorcery secret, since the islanders were superstitious and had little knowledge of magic aside from folktales, in which magic users were often evil. I did tell Roane, though, who I trusted to keep my secret. She was in awe of my abilities, but also worried for my wellbeing, as neither of us knew what such powers would mean for my future. I tried to reassure her that this was a gift, but I know she never truly believed it.
+
+I left for the open ocean as soon as I came of age. It was stifling to keep my magic a secret, and I had a feeling that other places might accept it more readily and even explain why I had my gifts. My sister was never interested in travel, so she stayed behind and began to raise a large family of her own, serving as the island’s medicine woman. I missed my nieces and nephews, but I knew sailing and sorcery was my calling.
+
+I joined a crew of fisherfolk near my island to start, since I had the experience from my youth, but quickly grew bored. They were too similar to the people I’d grown up with, and I didn’t trust them to take the knowledge of my magic well. Besides, I wanted to see more of the world, and they had a very limited range. 
+
+I decided to enlist on a trading ship, *The Oyster-bed*, and my horizons quickly broadened. The captain of *The Oyster-bed*, Locke, was a half-elf who came from a bustling city a few hundred miles away. He had grown up surrounded by magic-users and even employed some on his ship. I told him of my own powers and he was not only accepting, but pleased. He put me under the tutelage of an older sailor, Melton, who had trained in a wizard college in his youth and had some experience with divination magic. The crew relied on him to warn them of storms and help keep the ship on track. Melton wasn’t sure exactly where my powers came from, but he worked with me to develop finer control and expand my abilities. I become better at manipulating water and learned to harness ocean storms to conjure lightning and thunder, although not in great amounts.
+
+I loved *The Oyster-bed*. I could be myself and use my sorcery to help my crew, and they were thankful. I met hundreds of interesting people while trading and saw incredible places. Locke was a fair captain, and when Melton retired after a few years, he made me his first mate. I often joked that I was married to the sea, as many sailors did. It was hard to pursue romance while sailing, especially since the ship was mostly crewed by men, and I was never attracted to them. That was fine by me, since I was never one to settle down with a wife. However, there was one woman who almost changed my mind. Her name was Leona and she wasn’t actually a sailor. She worked for the same wizard university that Melton had attended and was returning from a conference on the arcane arts. Apparently, she’d missed her ship home and had convinced our captain to give her passage, since we were on a route that passed her city. We never took landlubbers with us, only sailors, but perhaps she’d made a deal with the captain. I never learned the details. 
+
+She was captivating. I thought myself a powerful magic user, since I’d long since surpassed Melton’s abilities, but Leona was something else. Her magic was focused on illusion and enchantment. She showed me scenes from far away in the spray of the water against the deck. She conjured flowers and jewels for me to enjoy and changed her own appearance at will. Her focus was intense, and it was all for me. I don’t know if I was in love with her, but I was certainly obsessed. 
+
+It all fell apart when she asked me to leave the ship and join her in her city. I told her no, of course, but we both could see that I had doubts. We were sitting in the crow’s nest. I was on watch duty and she’d asked to join me, to see what it was like. The wind whipped her long hair into swirling, mesmerizing patterns. It reminded me of seaweed dancing in the current. 
+
+She took my hand and told me of the wonders I could see if I left the ocean and joined her. It was so hard to resist her smile when she described the city and the magic therein. I almost changed my mind.
+
+It was then that the ocean rose up and swallowed *The Oyster-bed*. It was rare for us to encounter storms. While Melton had sailed with us, his powers of divination had kept us safe, and since he’d retired, my sense of the sea’s moods had always been spot-on. But this was like nothing I’d ever experienced. It was sudden and merciless.
+
+One second I was sitting in the crow’s nest with Leona’s hand around mine, and the next, I was underwater, buffeted by waves and the debris of my ship. I could breathe just as always, but I still feared for my life. I pushed against the icy water as best I could, and it felt as though the ocean below me was aiding me towards the surface. When my head broke through to crisp ocean air, *The Oyster-bed* and her crew were nowhere to be found. 
+
+I screamed and cried and pounded the surface of the ocean as if that would do anything at all. I thought the ocean loved me, and yet she’d taken the people and ship that I loved most. I mourned for Locke and the rest of my crew. I mourned for Leona, despite her attempt to take me from my ship. 
+
+As the salt of my tears mingled with the ocean water, a huge shape formed below me. I feared it was some goliath sea monster or kraken, but it resolved into the form of a woman unlike any other. She was made of the sea, her body as big as a blue whale’s and her hair stretching many miles around her. 
+
+She didn’t speak, but I heard her voice in my head. It was deep and melodic and echoed strangely. All she said was, “My love. Stay. She is not your path.”
+
+After that, I must have blacked out. When I came too, I was being hauled from the ocean by a passing fishing vessel. I wasn’t injured, just soaked and heartbroken. I offered my skill as a sailor and sorcerer to the crew of the ship, and they allowed me passage with them to the mainland. As I stepped onto the dock, I swore that I would find a life outside the ocean. I also promised Leona that someday I would go to her city and apologize to her loved ones. I would tell them the truth- that I was cursed to belong the ocean and she had died trying to free me. 
+
+Lately, I’ve been working odd jobs by the harbor to keep myself fed and housed, as well as send back any extra money to my sister. I don’t want to travel by sea right now if I can avoid it. The memories are still too raw. 
+
+I kept the pearl from that very first ocean walk. I can’t bring myself to cast it back in the water. Besides, something tells me it would find its way back to me.
